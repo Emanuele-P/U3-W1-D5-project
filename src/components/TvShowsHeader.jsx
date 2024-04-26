@@ -28,10 +28,10 @@ const TVShowsHeader = () => {
           aria-label="Basic outlined example"
         >
           <Button variant="outline-secondary" className="interactive">
-            <i className="bi bi-text-left"></i>
+            <i class="bi bi-grid icons"></i>
           </Button>
           <Button variant="outline-light" className="interactive">
-            <i className="bi bi-view-list"></i>
+            <i class="bi bi-grid-3x3 icons"></i>
           </Button>
         </ButtonGroup>
       </section>
